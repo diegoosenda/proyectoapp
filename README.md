@@ -1,2 +1,0 @@
-# proyectoapp
-github de prueba
